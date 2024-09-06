@@ -39,11 +39,11 @@ Publications
  
 + **Zhexin Zhang\***, Jian Guan\*, Guowei Xu, Yixiang Tian, Minlie Huang. Automatic Comment Generation for Chinese Student Narrative Essays. **EMNLP 2022 Demo** (Demo Paper). [[pdf]](https://aclanthology.org/2022.emnlp-demos.21/) [[code]](https://github.com/thu-coai/EssayCommentGen)
 
-+ Jian Guan, **Zhexin Zhang**, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. **ACL 2021** (Long Paper). [[pdf]](https://arxiv.org/abs/2105.08920) [[code]](https://github.com/thu-coai/OpenMEVA)
++ Jian Guan, **Zhexin Zhang**, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. **ACL 2021** (Long Paper). [[pdf]](https://arxiv.org/abs/2105.08920) [[code]](https://github.com/thu-coai/OpenMEVA)
 
-+ Hao Sun, **Zhexin Zhang**, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/pdf/2212.10720) [[code]](https://github.com/thu-coai/MoralDial)
++ Hao Sun, **Zhexin Zhang**, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang. MoralDial: A framework to train and evaluate moral dialogue systems via moral discussions. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/pdf/2212.10720) [[code]](https://github.com/thu-coai/MoralDial)
 
-+ Jiaxin Wen, Pei Ke, Hao Sun, **Zhexin Zhang**, Chengfei Li, Jinfeng Bai, Minlie Huang. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/abs/2311.17391) [[code]](https://github.com/thu-coai/Implicit-Toxicity)
++ Jiaxin Wen, Pei Ke, Hao Sun, **Zhexin Zhang**, Chengfei Li, Jinfeng Bai, Minlie Huang. Unveiling the implicit toxicity in large language models. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/abs/2311.17391) [[code]](https://github.com/thu-coai/Implicit-Toxicity)
 
 **Preprints**
 
