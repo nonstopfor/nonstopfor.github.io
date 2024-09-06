@@ -31,7 +31,7 @@ Publications
 
 + **Zhexin Zhang**, Jiale Cheng, Hao Sun, Jiawen Deng, Minlie Huang. InstructSafety: A Unified Framework for Building Multidimensional and Explainable Safety Detector through Instruction Tuning. **EMNLP 2023 Findings** (Long paper). [[pdf]](https://aclanthology.org/2023.findings-emnlp.700/) [[code]](https://nonstopfor.github.io/)
 
-+ **Zhexin Zhang**, Jiale Cheng, Hao Sun, Jiawen Deng, Fei Mi, Yasheng Wang, Lifeng Shang, Minlie Huang. Constructing Highly Inductive Contexts for Dialogue Safety through Controllable Reverse Generation. **EMNLP 2022 Findings** (Long Paper). [[pdf]](https://arxiv.org/abs/2212.01810) [[code]](https://github.com/thu-coai/Reverse_Generation)
++ **Zhexin Zhang\***, Jiale Cheng\*, Hao Sun, Jiawen Deng, Fei Mi, Yasheng Wang, Lifeng Shang, Minlie Huang. Constructing Highly Inductive Contexts for Dialogue Safety through Controllable Reverse Generation. **EMNLP 2022 Findings** (Long Paper). [[pdf]](https://arxiv.org/abs/2212.01810) [[code]](https://github.com/thu-coai/Reverse_Generation)
 
 + **Zhexin Zhang**, Yeshuang Zhu, Zhengcong Fei, Jinchao Zhang, Jie Zhou. Selecting Stickers in Open-Domain Dialogue through Multitask Learning. **ACL 2022 Findings** (Short Paper). [[pdf]](https://arxiv.org/abs/2209.07697) [[code]](https://github.com/nonstopfor/Sticker-Selection)
 
@@ -41,15 +41,15 @@ Publications
 
 + Jian Guan, **Zhexin Zhang**, Zhuoer Feng, Zitao Liu, Wenbiao Ding, Xiaoxi Mao, Changjie Fan, Minlie Huang. OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics. **ACL 2021** (Long Paper). [[pdf]](https://arxiv.org/abs/2105.08920) [[code]](https://github.com/thu-coai/OpenMEVA)
 
-+ Hao Sun, **Zhexin Zhang**, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang. MoralDial: A framework to train and evaluate moral dialogue systems via moral discussions. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/pdf/2212.10720) [[code]](https://github.com/thu-coai/MoralDial)
++ Hao Sun, **Zhexin Zhang**, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang. MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Moral Discussions. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/pdf/2212.10720) [[code]](https://github.com/thu-coai/MoralDial)
 
-+ Jiaxin Wen, Pei Ke, Hao Sun, **Zhexin Zhang**, Chengfei Li, Jinfeng Bai, Minlie Huang. Unveiling the implicit toxicity in large language models. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/abs/2311.17391) [[code]](https://github.com/thu-coai/Implicit-Toxicity)
++ Jiaxin Wen, Pei Ke, Hao Sun, **Zhexin Zhang**, Chengfei Li, Jinfeng Bai, Minlie Huang. Unveiling the Implicit Toxicity in Large Language Models. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/abs/2311.17391) [[code]](https://github.com/thu-coai/Implicit-Toxicity)
 
 **Preprints**
 
 + **Zhexin Zhang\***, Junxiao Yang\*, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang. Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2407.02855) [[code]](https://github.com/thu-coai/SafeUnlearning)
 
-+  **Zhexin Zhang\***, Yida Lu\*, Jingyuan Ma, Di Zhang, Rui Li, Pei Ke, Hao Sun, Lei Sha, Zhifang Sui, Hongning Wang, Minlie Huang. Shieldlm: Empowering llms as aligned, customizable and explainable safety detectors. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2402.16444) [[code]](https://github.com/thu-coai/ShieldLM)
++  **Zhexin Zhang\***, Yida Lu\*, Jingyuan Ma, Di Zhang, Rui Li, Pei Ke, Hao Sun, Lei Sha, Zhifang Sui, Hongning Wang, Minlie Huang. ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2402.16444) [[code]](https://github.com/thu-coai/ShieldLM)
 
 + Hao Sun, **Zhexin Zhang**, Jiawen Deng, Jiale Cheng, Minlie Huang. Safety Assessment of Chinese Large Language Models. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2304.10436) [[code]](https://github.com/thu-coai/Safety-Prompts)
 
