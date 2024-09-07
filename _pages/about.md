@@ -43,7 +43,7 @@ Publications
 
 + Hao Sun, **Zhexin Zhang**, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang. MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Moral Discussions. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/pdf/2212.10720) [[code]](https://github.com/thu-coai/MoralDial)
 
-+ Jiaxin Wen, Pei Ke, Hao Sun, **Zhexin Zhang**, Chengfei Li, Jinfeng Bai, Minlie Huang. Unveiling the Implicit Toxicity in Large Language Models. **ACL 2023** (Long Paper). [[pdf]](https://arxiv.org/abs/2311.17391) [[code]](https://github.com/thu-coai/Implicit-Toxicity)
++ Jiaxin Wen, Pei Ke, Hao Sun, **Zhexin Zhang**, Chengfei Li, Jinfeng Bai, Minlie Huang. Unveiling the Implicit Toxicity in Large Language Models. **EMNLP 2023** (Long Paper). [[pdf]](https://arxiv.org/abs/2311.17391) [[code]](https://github.com/thu-coai/Implicit-Toxicity)
 
 **Preprints**
 
