@@ -27,6 +27,8 @@ Publications
 
 + **Zhexin Zhang**, Jiaxin Wen, Minlie Huang. Ethicist: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation. **ACL 2023** (Long Paper, **Oral**). [[pdf]](https://arxiv.org/abs/2307.04401) [[code]](https://github.com/thu-coai/Targeted-Data-Extraction)
 
++  **Zhexin Zhang\***, Yida Lu\*, Jingyuan Ma, Di Zhang, Rui Li, Pei Ke, Hao Sun, Lei Sha, Zhifang Sui, Hongning Wang, Minlie Huang. ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors. **EMNLP 2024 Findings** (Long Paper). [[pdf]](https://arxiv.org/abs/2402.16444) [[code]](https://github.com/thu-coai/ShieldLM)
+
 + **Zhexin Zhang\***, Jiaxin Wen\*, Jian Guan, Minlie Huang. Persona-Guided Planning for Controlling the Protagonist's Persona in Story Generation. **NAACL 2022** (Long Paper). [[pdf]](https://arxiv.org/abs/2204.10703) [[code]](https://github.com/thu-coai/ConPer)
 
 + **Zhexin Zhang**, Jiale Cheng, Hao Sun, Jiawen Deng, Minlie Huang. InstructSafety: A Unified Framework for Building Multidimensional and Explainable Safety Detector through Instruction Tuning. **EMNLP 2023 Findings** (Long paper). [[pdf]](https://aclanthology.org/2023.findings-emnlp.700/) [[code]](https://nonstopfor.github.io/)
@@ -48,8 +50,6 @@ Publications
 **Preprints**
 
 + **Zhexin Zhang\***, Junxiao Yang\*, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang. Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2407.02855) [[code]](https://github.com/thu-coai/SafeUnlearning)
-
-+  **Zhexin Zhang\***, Yida Lu\*, Jingyuan Ma, Di Zhang, Rui Li, Pei Ke, Hao Sun, Lei Sha, Zhifang Sui, Hongning Wang, Minlie Huang. ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2402.16444) [[code]](https://github.com/thu-coai/ShieldLM)
 
 + Hao Sun, **Zhexin Zhang**, Jiawen Deng, Jiale Cheng, Minlie Huang. Safety Assessment of Chinese Large Language Models. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2304.10436) [[code]](https://github.com/thu-coai/Safety-Prompts)
 
