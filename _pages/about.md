@@ -77,6 +77,7 @@ I was a TA for the following undergraduate courses:
 
 Selected Honors and Awards
 ======
++ Top 40 Global Finalist of the Baidu Scholarship, 2024
 + National Scholarship, Dept. CST, Tsinghua University, 2024
 + Third place, Global Challenge for Safe and Secure LLMs, 2024
 + Samsung Scholarship, Dept. CST, Tsinghua University, 2023
