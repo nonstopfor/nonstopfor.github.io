@@ -49,6 +49,8 @@ Publications
 
 **Preprints**
 
++ **Zhexin Zhang\***, Shiyao Cui\*, Yida Lu\*, Jingzhuo Zhou\*, Junxiao Yang, Hongning Wang, Minlie Huang. Agent-SafetyBench: Evaluating the Safety of LLM Agents. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2412.14470) [[code]](https://github.com/thu-coai/Agent-SafetyBench)
+
 + **Zhexin Zhang\***, Junxiao Yang\*, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang. Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2407.02855) [[code]](https://github.com/thu-coai/SafeUnlearning)
 
 + Hao Sun, **Zhexin Zhang**, Jiawen Deng, Jiale Cheng, Minlie Huang. Safety Assessment of Chinese Large Language Models. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2304.10436) [[code]](https://github.com/thu-coai/Safety-Prompts)
@@ -56,6 +58,10 @@ Publications
 + Jiawen Deng, Jiale Cheng, Hao Sun, **Zhexin Zhang**, Minlie Huang. Towards Safer Generative Language Models: A Survey on Safety Risks, Evaluations, and Improvements. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2302.09270) [[code]](https://nonstopfor.github.io/)
 
 + Shangqing Tu, Zhuoran Pan, Wenxuan Wang, **Zhexin Zhang**, Yuliang Sun, Jifan Yu, Hongning Wang, Lei Hou, Juanzi Li. Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2406.11682) [[code]](https://github.com/THU-KEG/Knowledge-to-Jailbreak/)
+
+Projects
+======
++ AISafetyLab: a comprehensive framework for AI safety evaluation and improvement. [[code]](https://github.com/thu-coai/AISafetyLab)
 
 Services
 ======
