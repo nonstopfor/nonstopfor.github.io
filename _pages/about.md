@@ -49,9 +49,13 @@ Publications
 
 **Preprints**
 
++ **Zhexin Zhang**, Yuhao Sun, Junxiao Yang, Shiyao Cui, Hongning Wang, Minlie Huang. Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-tuning Data Could Be Secretly Stolen! arXiv preprint 2025. [[pdf]](https://arxiv.org/abs/2505.15656) [[code]](https://github.com/thu-coai/Backdoor-Data-Extraction)
+
++ **Zhexin Zhang\***, Xian Qi Loye\*, Victor Shea-Jay Huang, Junxiao Yang, Qi Zhu, Shiyao Cui, Fei Mi, Lifeng Shang, Yingkang Wang, Hongning Wang, Minlie Huang. How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study. arXiv preprint 2025. [[pdf]](https://arxiv.org/abs/2505.15404) [[code]](https://github.com/thu-coai/LRM-Safety-Study)
+
 + **Zhexin Zhang\***, Shiyao Cui\*, Yida Lu\*, Jingzhuo Zhou\*, Junxiao Yang, Hongning Wang, Minlie Huang. Agent-SafetyBench: Evaluating the Safety of LLM Agents. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2412.14470) [[code]](https://github.com/thu-coai/Agent-SafetyBench)
 
-+ **Zhexin Zhang\***, Junxiao Yang\*, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang. Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2407.02855) [[code]](https://github.com/thu-coai/SafeUnlearning)
++ **Zhexin Zhang\***, Junxiao Yang\*, Yida Lu, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang. From Theft to Bomb-Making: The Ripple Effect of Unlearning in Defending Against Jailbreak Attacks. arXiv preprint 2024. [[pdf]](https://arxiv.org/abs/2407.02855) [[code]](https://github.com/thu-coai/SafeUnlearning)
 
 + Hao Sun, **Zhexin Zhang**, Jiawen Deng, Jiale Cheng, Minlie Huang. Safety Assessment of Chinese Large Language Models. arXiv preprint 2023. [[pdf]](https://arxiv.org/abs/2304.10436) [[code]](https://github.com/thu-coai/Safety-Prompts)
 
@@ -61,11 +65,11 @@ Publications
 
 Projects
 ======
-+ AISafetyLab: a comprehensive framework for AI safety evaluation and improvement. [[code]](https://github.com/thu-coai/AISafetyLab)
++ AISafetyLab: a comprehensive framework for AI safety evaluation and improvement. [[pdf]](https://arxiv.org/abs/2502.16776) [[code]](https://github.com/thu-coai/AISafetyLab)
 
 Services
 ======
-+ Program Committee Member (Conference Reviewer) EMNLP 2023, ARR 2023, ARR 2024
++ Program Committee Member (Conference Reviewer) EMNLP 2023, ARR 2023, ARR 2024, ARR 2025
 
 Teaching
 ======
@@ -73,7 +77,7 @@ I was a TA for the following undergraduate courses:
 
 + Artificial Neural Network (2022 Fall, 2023 Fall, 2024 Fall)
 + Object-Oriented Programming (2022 Spring, 2023 Spring)
-+ Discrete Mathematics for Computer Science (2023 Spring, 2024 Spring)
++ Discrete Mathematics for Computer Science (2023 Spring, 2024 Spring, 2025 Spring)
 
 Selected Honors and Awards
 ======
